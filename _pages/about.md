@@ -28,7 +28,7 @@ latest_posts:
 ---
 
 <!-- Hi! This page hasn't been updated yet. -->
-Hi! I am a Ph.D. student at [University at Buffalo, SUNY Computer Science & Engineering](https://engineering.buffalo.edu/computer-science-engineering.html), advised by [Xi Lu](https://www.lu-xi.net/).
+Hi! I am a Ph.D. student at [University at Buffalo, SUNY Computer Science & Engineering](https://engineering.buffalo.edu/computer-science-engineering.html), advised by Dr. [Xi Lu](https://www.lu-xi.net/).
 My research explores how human-AI collaboration and data-driven tracking tools can support personal informatics and midlife health, empowering non-experts to understand and manage complex, often stigmatized health data.
 
 
